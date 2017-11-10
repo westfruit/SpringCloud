@@ -1,0 +1,6 @@
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\bin\Debug\netcoreapp1.1\eureka-client-net.deps.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\bin\Debug\netcoreapp1.1\eureka-client-net.runtimeconfig.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\bin\Debug\netcoreapp1.1\eureka-client-net.runtimeconfig.dev.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\bin\Debug\netcoreapp1.1\eureka-client-net.dll
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\obj\Debug\netcoreapp1.1\eureka-client-net.csprojResolveAssemblyReference.cache
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka-client-net\obj\Debug\netcoreapp1.1\eureka-client-net.AssemblyInfo.cs

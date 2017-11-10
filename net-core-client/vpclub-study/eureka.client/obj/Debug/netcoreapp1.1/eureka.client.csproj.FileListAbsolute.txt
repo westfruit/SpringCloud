@@ -1,0 +1,9 @@
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\bin\Debug\netcoreapp1.1\eureka.client.deps.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\bin\Debug\netcoreapp1.1\eureka.client.runtimeconfig.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\bin\Debug\netcoreapp1.1\eureka.client.runtimeconfig.dev.json
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\bin\Debug\netcoreapp1.1\eureka.client.dll
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\obj\Debug\netcoreapp1.1\eureka.client.csprojResolveAssemblyReference.cache
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\obj\Debug\netcoreapp1.1\eureka.client.AssemblyInfo.cs
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\bin\Debug\netcoreapp1.1\eureka.client.pdb
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\obj\Debug\netcoreapp1.1\eureka.client.dll
+E:\Java\SpringBoot\vpclub-study\net-core-client\vpclub-study\eureka.client\obj\Debug\netcoreapp1.1\eureka.client.pdb

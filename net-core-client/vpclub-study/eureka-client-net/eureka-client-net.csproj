@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <RootNamespace>vpclub.study</RootNamespace>
+    <AssemblyName>eureka.client.net</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pivotal.Discovery.Client" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>
