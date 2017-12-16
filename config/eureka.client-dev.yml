@@ -1,1 +1,2 @@
-neo.hello: hello eureka-client config test
+neo
+  hello: hello eureka-client config test
